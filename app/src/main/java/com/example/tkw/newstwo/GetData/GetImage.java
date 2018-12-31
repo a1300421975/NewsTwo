@@ -1,4 +1,4 @@
-package com.example.tkw.newstwo.News;
+package com.example.tkw.newstwo.GetData;
 
 import android.graphics.BitmapFactory;
 

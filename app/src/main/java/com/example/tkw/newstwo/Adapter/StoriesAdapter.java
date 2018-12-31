@@ -1,4 +1,4 @@
-package com.example.tkw.newstwo.News;
+package com.example.tkw.newstwo.Adapter;
 
 import android.graphics.Bitmap;
 import android.support.annotation.NonNull;
@@ -10,7 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.tkw.newstwo.CallBack.ImageCallBack;
+import com.example.tkw.newstwo.GetData.GetImage;
 import com.example.tkw.newstwo.R;
+import com.example.tkw.newstwo.News.Stories;
 
 import java.util.List;
 

@@ -1,6 +1,8 @@
-package com.example.tkw.newstwo.News;
+package com.example.tkw.newstwo.GetData;
 
 import com.example.tkw.newstwo.CallBack.DateCallBack;
+import com.example.tkw.newstwo.News.DateNews;
+import com.example.tkw.newstwo.News.Stories;
 
 import org.json.JSONArray;
 import org.json.JSONException;
